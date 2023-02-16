@@ -1,2 +1,9 @@
+mmcv
+mmcv-full
+numpy==1.23.1
 Pillow==9.4.0
 matplotlib==3.6.3
+opencv-python==4.7.0.68
+torch==1.12.0
+torchvision==0.13.0
+mmrotate
