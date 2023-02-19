@@ -6,7 +6,7 @@ IMAGE_PATH = r"C:\Users\hadar\Desktop\Projects\MAFAT-Challenge\testing\data\imag
 
 # Load the model
 model = model()
-model.load("model_url.txt")
+model.load(r"C:\Users\hadar\Desktop\Projects\MAFAT-Challenge")
 
 # Load the image
 img = cv2.imread(IMAGE_PATH, cv2.IMREAD_GRAYSCALE)
